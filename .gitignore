@@ -4,3 +4,6 @@ node_modules/
 .DS_Store
 *.gif
 !demo.gif
+setup-desktop-mcp.sh
+banner-preview.mjs
+*.mov
